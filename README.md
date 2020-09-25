@@ -2,7 +2,7 @@
 
 #### Stuff about me 
 
-- 🔭 I’m currently working on client and some personal projects
+- 🔭 I’m currently working Laravel, Vuejs, Django and React
 - 🌱 I’m currently learning reactjs
 - 💬 Ask me about anything related to frontend development (vue)
 - 📫 How to reach me: se.natnael.abay@gmail.com
