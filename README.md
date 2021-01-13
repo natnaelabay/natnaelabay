@@ -3,7 +3,7 @@
 #### Stuff about me 
 
 - 🔭 I’m currently working as a freelance web developer
-- 🌱 Currently a student at 3rd Year Student at AAiT
+- 3rd Year Student at AAiT
 
 <h2>Tools & Technologies</h2>
 <p>
@@ -36,7 +36,7 @@
 </p> 
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=natnaelabay&count_private=true)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=natnaelabay&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelabay)](https://github.com/anuraghazra/github-readme-stats)
 
