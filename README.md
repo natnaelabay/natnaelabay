@@ -13,7 +13,6 @@
    <img src="https://img.shields.io/badge/Vue.js%20-%23F7DF1E.svg?&style=for-the-badge&color=41B883" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Gulp.js%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Nuxt.js%20-%23F7DF1E.svg?&style=for-the-badge&color=2F495E" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp;
@@ -24,7 +23,6 @@
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Blade%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
@@ -38,5 +36,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=natnaelabay&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelabay)](https://github.com/anuraghazra/github-readme-stats)
 
