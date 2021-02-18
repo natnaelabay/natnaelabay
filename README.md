@@ -2,8 +2,7 @@
 
 #### Stuff about me 
 
-- 🔭 I’m currently working as a freelance web developer
-- 3rd Year Student at AAiT
+- 🔭 I’m currently working as a freelance web and mobile app developer
 
 <h2>Tools & Technologies</h2>
 <p>
