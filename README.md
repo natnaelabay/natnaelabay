@@ -1,5 +1,5 @@
 
-### Hi there 👋 my name is Natnael Abay - Software engineering student at Addis Ababa institute of technology (AAiT)
+### Hi there 👋 my name is Nati. A SWE @AAiT.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaelabay&label=Views&color=blue&style=plastic" alt="natnaelabay" /> </p>
 
 #### Stuff about me 
