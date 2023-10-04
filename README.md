@@ -6,6 +6,7 @@
 #### Stuff about me 
 
 - 🔭 I’m interested in machine learing, data science, and robotics.
+- Part of Pinley International
 - You can reach out to me on [Linkedin](https://www.linkedin.com/in/natnael-abay-akalu/), [Instagram](https://www.instagram.com/natnael.abay/), and also Email: se.natnael.abay@gmail.com.
 
 
