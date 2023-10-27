@@ -1,5 +1,5 @@
 
-### Hi there 👋 my name is Natnael(Nati in short), a Software Engineer.
+### Hi there 👋 my name is Natnael, a Software Engineer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaelabay&label=Views&color=blue&style=plastic" alt="natnaelabay" /> </p>
 
